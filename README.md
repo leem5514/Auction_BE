@@ -205,7 +205,6 @@
 <summary>입찰 관리</summary>
 
 ### 입찰 생성
-이거 추가
 <img src="./img/api테스트/댓글생성.png"/>
 
 ### 입찰 조회
@@ -258,7 +257,7 @@
 <img width="1656" height="468" alt="image" src="https://github.com/user-attachments/assets/04dda12d-39e7-421f-8120-95d88b3a5a5d" />
 
 ### 알림 읽음 처리
-[알림 읽음 처리]<img src="./img/api테스트/알림 읽음 처리"/>
+<img src="./img/api테스트/알림 읽음 처리"/>
 
 </details>
 
