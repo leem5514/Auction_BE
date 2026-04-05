@@ -258,8 +258,7 @@
 <img width="1656" height="468" alt="image" src="https://github.com/user-attachments/assets/04dda12d-39e7-421f-8120-95d88b3a5a5d" />
 
 ### 알림 읽음 처리
-이거 추가
-<img src="./img/api테스트/부서목록조회.png"/>
+[알림 읽음 처리]<img src="./img/api테스트/알림 읽음 처리"/>
 
 </details>
 
