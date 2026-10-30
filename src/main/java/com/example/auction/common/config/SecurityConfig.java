@@ -69,7 +69,7 @@ public class SecurityConfig {
                                 "/ws-public/**",
                                 "/ws-admin/**",
                                 "/season/**",
-                                "/actuator/health"
+                                "/actuator/health/**"
                         ).permitAll()
                         .anyRequest().authenticated()
                 )
