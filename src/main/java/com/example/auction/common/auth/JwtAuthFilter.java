@@ -38,7 +38,7 @@ public class JwtAuthFilter extends OncePerRequestFilter {
         if ("OPTIONS".equalsIgnoreCase(method)
                 || "/user/login".equals(path)
                 || "/user/register".equals(path)
-                || "/actuator/health".equals(path)
+                || path.startsWith("/actuator/health")
                 || path.startsWith("/category")
                 || path.equals("/product/all")
                 || path.equals("/product/top3")
